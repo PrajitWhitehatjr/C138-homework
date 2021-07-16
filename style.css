@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+#h1 {
+    width: 100%;
+    margin-top: 0;
+}
+#i1 {
+    float: left;
+   font-size: 30px;
+}
+
+#heading {
+    font-size: 30px;
+}
+
+#instruction {
+    float: right;
+    font-size: 20px;
+    border-color: white;
+}
+
+#mario {
+    width: 100%;
+    height: 700px;
+}
+
+video {
+    border: 4px white groove;
+    width:650px;
+    height:300px;
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding:15px;
+
+}
